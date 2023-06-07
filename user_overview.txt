@@ -1,0 +1,37 @@
+Total number of users are:      5
+Total number of tasks are:      6
+
+Report for:   admin
+Total number of tasks assigned  :                                                     2
+The percentage of the total number of tasks assigned:                                 33.33333333333333%
+The percentage of the tasks assigned that have been completed:                        0.0%
+The percentage of the tasks assigned that must still be completed:                    100.0%
+The percentage of the tasks assigned that must still be completed and are overdue:    100.0%
+
+Report for:   user1
+Total number of tasks assigned  :                                                     1
+The percentage of the total number of tasks assigned:                                 16.666666666666664%
+The percentage of the tasks assigned that have been completed:                        100.0%
+The percentage of the tasks assigned that must still be completed:                    0.0%
+The percentage of the tasks assigned that must still be completed and are overdue:    0%
+
+Report for:   user2
+Total number of tasks assigned  :                                                     1
+The percentage of the total number of tasks assigned:                                 16.666666666666664%
+The percentage of the tasks assigned that have been completed:                        0.0%
+The percentage of the tasks assigned that must still be completed:                    100.0%
+The percentage of the tasks assigned that must still be completed and are overdue:    0.0%
+
+Report for:   user3
+Total number of tasks assigned  :                                                     1
+The percentage of the total number of tasks assigned:                                 16.666666666666664%
+The percentage of the tasks assigned that have been completed:                        0.0%
+The percentage of the tasks assigned that must still be completed:                    100.0%
+The percentage of the tasks assigned that must still be completed and are overdue:    0.0%
+
+Report for:   user4
+Total number of tasks assigned  :                                                     1
+The percentage of the total number of tasks assigned:                                 16.666666666666664%
+The percentage of the tasks assigned that have been completed:                        0.0%
+The percentage of the tasks assigned that must still be completed:                    100.0%
+The percentage of the tasks assigned that must still be completed and are overdue:    0.0%

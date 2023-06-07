@@ -1,0 +1,6 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 October 2019, 20 October 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 October 2019, 25 October 2019, No
+user1, Accounting, Maintaining accounts, 06 February 2023, 24 March 2023, Yes
+user2, Purchasing, Placing purchase orders for all purchases, 06 February 2023, 24 March 2023, No
+user3, housekeeping, to ensure all the logistics are running smoothly, 07 February 2023, 31 May 2023, No
+user4, document control, to keep record of all the documents of the projects, 19 February 2023, 31 March 2023, No
